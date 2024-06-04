@@ -51,6 +51,10 @@ section {
   position: absolute;
 }
 
-#webcam {
+/* #webcam {
   transform: scaleX(-1);
 }
+
+#canvas{
+  transform: scaleX(-1);
+} */
